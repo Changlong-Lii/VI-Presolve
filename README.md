@@ -69,6 +69,4 @@ Here, `s` can be one of the following settings:
 
 #### Notes on aggregation
 
-The CSV file provides per-observation raw data. The performance tables in the paper are computed from these observations using shifted geometric means, all with a shift of 1.
-
-A setting is considered to solve an observation if it proves the instance within the time limit. Observations that reach the time limit are still included when at least one setting considered in the corresponding experiment solves them.
+The CSV file provides per-observation raw data. The performance tables in the paper are computed from observations that can be solved by at least one setting considered in the corresponding experiment, using shifted geometric means with a shift of 1.
