@@ -1,4 +1,4 @@
-## Online Supplement of:
+## Detailed computational results of the paper:
 
 # *Exploiting Variable Implications in Presolve for Mixed Integer Programming*
 
